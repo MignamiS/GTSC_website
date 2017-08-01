@@ -1,0 +1,9 @@
+
+<ul>
+{{ range first 3 (where .Data.Pages "Section" "news") }}
+	<li>
+		<a href="{{ .Permalink }}">{{ .Title }}</a>
+		<p>{{ .Params.Descrizione }}</p>
+	</li>
+{{ end }}
+</ul>

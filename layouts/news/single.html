@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+
+<main>
+	<h1>{{ .Title }}</h1>
+	<p><em>Data pubblicazione: {{ .Params.Data }}</em></p>
+	{{ .Content }}
+</main>
+
+{{ partial "footer.html" . }}

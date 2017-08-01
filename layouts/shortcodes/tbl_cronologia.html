@@ -1,0 +1,15 @@
+
+<table class="table table-striped table-bordered">
+	<tr>
+		<th>Anno</th>
+		<th>Evento</th>
+	</tr>
+	{{ $url := "static/dati/cronologia.csv" }}
+	{{ $sep := ";" }}
+	{{ range $i, $r := getCSV $sep $url }}
+		<tr>
+			<td>{{ index $r 0 }}</td>
+			<td>{{ index $r 1 }}</td>
+		</tr>
+	{{ end }}
+</table> 

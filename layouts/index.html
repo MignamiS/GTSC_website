@@ -1,0 +1,46 @@
+{{ partial "header.html" . }}
+
+<img src="{{ .Site.BaseURL }}img/sci_alpino.JPG" id="home-img" class="img-responsive" alt="due sciatori, un cieco e la sua guida, durante una curva"/>
+<h2>Chi siamo</h2>
+<p class="lead">
+Il “Gruppo Ticinese sportivi Ciechi e Ipovedenti” (GTSC) é un’associazione sportiva. Ne fanno parte persone con e senza difficoltà visive il cui obiettivo è di praticare sport insieme.
+</p>
+<p>
+Nasce inizialmente come sci-club nel 1976 con lo scopo di permettere a ciechi e ipovedenti di poter sciare in sicurezza grazie all'aiuto di guide appositamente formate. Nel corso degli anni sono state aggiunte nuove discipline sportive, come il tandem o il nuoto.<br/>
+Attualmente il gruppo conta oltre un centinaio di soci e offre attività sportive durante tutto l'anno, in Ticino e all'estero.
+</p>
+
+<h2>Ultime news</h2>
+{{ partial "bacheca.html" . }}
+
+<div class="row">
+	<h2>Discipline praticate</h2>
+	<div class="col-xs-3">
+		<a href="{{ .Site.BaseURL }}attivita/sci_alpino/">
+			<h3>Sci alpino</h3>
+			<img src="/img/ico_sci.png" class="ico-attivita img-thumbnail img-responsive" alt=""/>
+		</a>
+	</div>
+	<div class="col-xs-3">
+		<a href="{{ .Site.BaseURL }}attivita/sci_fondo/">
+			<h3>Sci di fondo</h3>
+			<img src="/img/ico_sci_fondo.png" class="ico-attivita img-thumbnail img-responsive" alt=""/>
+		</a>
+	</div>
+	<div class="col-xs-3">
+		<a href="{{ .Site.BaseURL }}attivita/tandem/">
+			<h3>Tandem</h3>
+			<img src="/img/ico_tandem.png" class="ico-attivita img-thumbnail img-responsive" alt=""/>
+		</a>
+	</div>
+	<div class="col-xs-3">
+		<a href="{{ .Site.BaseURL }}attivita/escursionismo/">
+			<h3>Escursionismo</h3>
+			<img src="/img/ico_escursioni.png" class="ico-attivita img-thumbnail img-responsive" alt=""/>
+		</a>
+	</div>
+</div>
+
+<a class="btn btn-default btn-block" href="{{ .Site.BaseURL }}attivita/">Tutte le attività</a>
+
+{{ partial "footer.html" . }}
