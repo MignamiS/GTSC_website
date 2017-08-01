@@ -1,0 +1,68 @@
+/* header */
+header {
+	background-color: yellow;
+}
+.vertical-align {
+	display: flex;
+	align-items: center;
+}
+.banner-text {
+	text-align: center;
+	font-size: 24pt;
+	font-weight: bold;
+}
+img.logo {
+	margin: 5px;
+}
+
+
+/* home page */
+/* immagine di copertina della home page */
+#home-img {
+	float: right;
+	width: 45%;
+	margin: 25px;
+}
+
+/* icone con i simboli delle varie attività */
+.ico-attivita {
+	max-width: 150px;
+	max-height: 150px;
+}
+
+
+/* footer */
+footer {
+	background-color: yellow;
+	text-align: center;
+	margin-top: 32px;
+	padding-top: 10px;
+	padding-bottom: 60px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+
+
+
+/* attività */
+.img-attivita {
+	width: 200px;
+	height: auto;
+}
+
+/* figure */
+figure.fig {
+	float: left;
+	margin-right: 10px;
+}
+
+.fig img {
+	max-width: 350px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+figcaption p {
+	font-style: italic;
+}

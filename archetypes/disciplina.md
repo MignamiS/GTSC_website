@@ -1,0 +1,5 @@
++++
+descrizione = ""
+immagine = ""
+caption = ""
++++
