@@ -9,7 +9,7 @@ title = "Chi siamo"
 > "Quali emozioni, quali gioie prova un cieco nello sci?"
 >
 > "Le stesse di tutti quelli che praticano lo sci, tuttavia in modo più profondo e sentito. Perché partecipo alla gioia della mia guida: un amico, che mi segue come un'ombra, che conosce le mie reazioni, i miei limiti e sa interpretare le mie aspirazioni, liberandomi su pendii di neve polverosa. (…) Lasciatemi continuare a sognare! Anche questo mi aiuta a ritrovare, giorno dopo giorno, la gioia di vivere". (Rino Bernasconi)
- 
+
 Il "Gruppo Ticinese sportivi Ciechi e Ipovedenti" (GTSC) è un'associazione sportiva del tipo Sci Club, affiliata alla Federazione Svizzera di Sci (FSS), alla Federazione Sci della Svizzera Italiana (FSSI) e all'Unione Centrale Svizzera per il bene dei ciechi.
 
 
