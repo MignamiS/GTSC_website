@@ -18,8 +18,8 @@ Iscrizioni
 
 Le iscrizioni alle attività vanno inoltrate alla segretaria in una delle seguenti maniere:
 
-- Via email (<mailto:simona.rehli89@gmail.com>)
-- Con un SMS al numero **+41 76 309 38 29** oppure
+- Via email (<mailto:{{< dati "emailSegretaria" >}}>)
+- Con un SMS al numero **{{< dati "natelSegretaria" >}}** oppure
 - Per telefono, ma **solo dalle 18:00 alle 20:00**
 
 
@@ -29,7 +29,7 @@ Nuoto
 
 Tutti i giovedì dalle 19:00 alle 20:00, secondo il calendario scolastico.
 
-{{< glyphicon "earphone" >}} Iscrizioni: **+41 (0)76 370 71 03** (Loredana).
+{{< glyphicon "earphone" >}} Iscrizioni: **{{< dati "natelLoredana" >}}** (Loredana).
 
 
 
@@ -40,4 +40,4 @@ Mercoledì quindicinale, presso Casa Andreina, dalle 17:45 alle 18:30.
 
 **Presentarsi in tenuta da ginnastica**.
 
-{{< glyphicon "earphone" >}} Iscrizioni: **+41 (0)79 405 17 43** (Liliana).
+{{< glyphicon "earphone" >}} Iscrizioni: **{{< dati "natelLiliana" >}}** (Liliana).

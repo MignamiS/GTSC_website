@@ -2,22 +2,23 @@
 
 <main>
 	<h1>Contatto</h1>
-	<div class="row">
+	<div class="row" >
 		<div class="col-md-4">
 			<p><span class="glyphicon glyphicon-home"></span> Indirizzo</p>
 			<p>c/o UNITAS<br/>Via S.Gottardo 49<br/>6598 Tenero</p>
 		</div>
 		<div class="col-md-4">
 			<p><span class="glyphicon glyphicon-envelope"></span> Email</p>
-			<a href="mailto:simona.rehli89@gmail.com">simona.rehli89@gmail.com</a>
+			{{ $email := .Site.Data.contatti.emailSegretaria }}
+			<a href="mailto:{{ $email }}">{{ $email }}</a>
 		</div>
 		<div class="col-md-4">
 			<p><span class="glyphicon glyphicon-earphone"></span> Telefono</p>
-			<p>+41 76 309 38 29</p>
+			<p>{{ .Site.Data.contatti.natelSegretaria }}</p>
 		</div>
 	</div>
 	
-	<p>In caso di problemi legati al sito web si prega di contattare direttamente il <a href="mailto:simone.mig29@gmail.com">webmaster</a>.</p>
+	<p>In caso di problemi legati al sito web si prega di contattare direttamente il <a href="mailto:{{ .Site.Data.contatti.webmasterEmail }}">webmaster</a>.</p>
 	
 	{{ .Content }}
 </main>
