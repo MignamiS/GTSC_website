@@ -28,17 +28,24 @@
 				<li>
 					<a href="{{ .Site.BaseURL }}">Home</a>
 				</li>
-				<li>
-					<a href="{{ .Site.BaseURL }}chi_siamo">Chi siamo</a>
+				
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Gruppo
+						<span class="caret"></span></a>
+					</a>
+					<ul class="dropdown-menu">
+						<li><a href="{{ .Site.BaseURL }}chi_siamo">Chi siamo</a></li>
+						<li>
+							<a href="{{ .Site.BaseURL }}comitato">Comitato</a>
+						</li>
+						<li>
+							<a href="{{ .Site.BaseURL }}traguardi">Traguardi</a>
+						</li>
+					</ul>
 				</li>
+				
 				<li>
 					<a href="{{ .Site.BaseURL }}disciplina">Discipline</a>
-				</li>
-				<li>
-					<a href="{{ .Site.BaseURL }}comitato">Comitato</a>
-				</li>
-				<li>
-					<a href="{{ .Site.BaseURL }}traguardi">Traguardi</a>
 				</li>
 				<li>
 					<a href="{{ .Site.BaseURL }}contatto">Contatto</a>
