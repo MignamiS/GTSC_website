@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+<main>
+	<h1>News</h1>
+	<p>Elenco delle news pubblicate sul sito.</p>
+	{{ range .Data.Pages.ByDate }}
+		<div>
+			<a href="{{ .Permalink }}">{{ .Title }}</a>
+			<p>{{ .Params.data }}</p>
+		</div>
+	{{ end }}
+</main>
+
+{{ partial "footer.html" . }}
