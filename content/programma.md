@@ -9,7 +9,7 @@ Ecco il programma per la stagione 2016-2017.
 
 **Nota bene**: il Corso guide è riservato esclusivamente alle guide, ai candidati-guida, a ciechi e ipovedenti.
 
-Scarica la [versione PDF del programma](/dati/programma.pdf).
+{{< glyphicon "save-file" >}} Scarica la [versione PDF del programma](/dati/programma.pdf).
 
 
 
@@ -29,7 +29,7 @@ Nuoto
 
 Tutti i giovedì dalle 19:00 alle 20:00, secondo il calendario scolastico.
 
-Iscrizioni: Loredana (+41 (0)76 370 71 03)
+{{< glyphicon "earphone" >}} Iscrizioni: **+41 (0)76 370 71 03** (Loredana).
 
 
 
@@ -40,4 +40,4 @@ Mercoledì quindicinale, presso Casa Andreina, dalle 17:45 alle 18:30.
 
 **Presentarsi in tenuta da ginnastica**.
 
-Iscrizioni: Liliana (+41 (0)79 405 17 43).
+{{< glyphicon "earphone" >}} Iscrizioni: **+41 (0)79 405 17 43** (Liliana).

@@ -66,3 +66,8 @@ figure.fig {
 figcaption p {
 	font-style: italic;
 }
+
+/* Tabelle */
+tr {
+	border-bottom: 2px solid darkgrey;
+}
