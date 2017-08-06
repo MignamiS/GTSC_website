@@ -4,13 +4,3 @@ title = "Contatto"
 layout = "contatto"
 
 +++
-
-Iscrizioni
------------
-
-Le iscrizioni alle attività vanno inoltrate alla segretaria in una delle seguenti maniere:
-
-- Con un SMS
-- Via email
-- Per telefono, ma **solo dalle 18:00 alle 20:00**
-
