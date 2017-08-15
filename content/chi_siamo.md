@@ -3,7 +3,7 @@ date = "2017-05-06T17:25:12+02:00"
 title = "Chi siamo"
 +++
 
-{{< figure src="/img/alalin.jpg" caption="Il GTSC sull'Alalin nel 1984" class="fig" link="/img/alalin.jpg" >}}
+{{< fig "img/alalin.jpg" "Il GTSC sull'Alalin nel 1984" >}}
 
 > "Quali emozioni, quali gioie prova un cieco nello sci?"
 >

@@ -2,12 +2,12 @@
 caption = "In sella ad un tandem"
 date = "2017-05-08T19:06:50+02:00"
 descrizione = "Come per lo sci, anche nel tandem, i benefici che un cieco può trarne sono enormi: maggiore forma fisica con accresciuto senso dell'equilibrio e dell'orientamento ed una maggiore forza morale che stimola il desiderio d'indipendenza e di autonomia."
-immagine = "/img/tandem.jpg"
+immagine = "img/tandem.jpg"
 title = "Tandem"
 
 +++
 
-{{< figure src="/img/tandem.jpg" caption="In sella ad un tandem" class="fig" link="/img/tandem.jpg" >}}
+{{< fig "img/tandem.jpg" "In sella ad un tandem" >}}
 
 L'UNITAS e il GTSC organizzano ogni anno un rally, una festa sportiva al Centro nazionale della gioventù di Tenero. Li è nata l'idea e la passione per la bicicletta, il tandem ovviamente, dove la guida sta davanti e il cieco dietro.
 

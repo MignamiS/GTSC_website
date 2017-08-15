@@ -7,7 +7,7 @@ title = "Sci alpino"
 
 +++
 
-{{< figure src="/img/sci_alpino.JPG" caption="Una coppia cieco-guida durante una curva" class="fig" link="/img/sci_alpino.JPG" >}}
+{{< fig "img/sci_alpino.JPG" "Una coppia cieco-guida durante una curva" >}}
 
 Il cieco e il suo rapporto con lo sci
 ---------------------------------------

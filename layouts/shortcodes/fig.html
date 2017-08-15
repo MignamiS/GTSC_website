@@ -1,0 +1,11 @@
+{{ $url := printf "%s%s" .Site.BaseURL (.Get 0) }}
+
+<figure class="fig">
+<a href="{{ $url }}">
+	<img src="{{ $url }}" alt="" class="img-responsive">
+</a>
+
+<figcaption>
+	<p>{{ .Get 1 }}</p> 
+</figcaption>
+</figure>

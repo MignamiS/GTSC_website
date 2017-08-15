@@ -7,7 +7,7 @@ title = "Sci di fondo"
 
 +++
 
-{{< figure src="/img/gomes.JPG" caption="Tre fondisti in azione nelle loro rispettive tracce nella neve" class="fig" link="/img/gomes.JPG" >}}
+{{< fig "img/gomes.JPG" "Tre fondisti in azione nelle loro rispettive tracce nella neve" >}}
 
 L'inizio di questa attività risale al gennaio 1976.
 I primi approcci con la neve sono stati concretizzati con gli sci di fondo ad Ambrì.
