@@ -1,12 +1,9 @@
 <footer>
 	<div class="row">
-		<div class="col-xs-4">
+		<div class="col-xs-6">
 			<p class="text-left">Copyright &copy; GTSC {{ (time now).Year }}</p>
 		</div>
-		<div class="col-xs-4">
-			<p class="text-center">Sito a cura di Simone Mignami e Alberto Polli</p>
-		</div>
-		<div class="col-xs-4">
+		<div class="col-xs-6">
 			{{ $t := time now }}
 			<p class="text-right">Ultima modifica {{ printf "%d.%d.%d" $t.Day $t.Month $t.Year }}</p>
 		</div>

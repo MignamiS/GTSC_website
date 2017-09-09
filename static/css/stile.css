@@ -1,6 +1,6 @@
 /* header */
 header {
-	background-color: yellow;
+	background-color: lightgray;
 }
 .vertical-align {
 	display: flex;
@@ -15,6 +15,14 @@ img.logo {
 	margin: 5px;
 }
 
+/* Generale */
+h2 {
+	margin-top: 1.5em;
+}
+
+h3 {
+	margin-top: 1em;
+}
 
 /* home page */
 /* immagine di copertina della home page */
@@ -33,7 +41,7 @@ img.logo {
 
 /* footer */
 footer {
-	background-color: yellow;
+	background-color: lightgray;
 	text-align: center;
 	margin-top: 32px;
 	padding-top: 10px;

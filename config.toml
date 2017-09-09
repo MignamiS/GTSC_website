@@ -1,3 +1,4 @@
 baseURL = "http://atoverride.altervista.org/gtsc/"
 languageCode = "it"
 title = "Sito ufficiale GTSC"
+pluralizelisttitles = false
