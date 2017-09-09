@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+
+<h1>{{ .Title }}</h1>
+<div class="row">
+	<div class="col-xs-4">
+		{{ $url := printf "%s%s" .Site.BaseURL (.Params.immagine) }}
+
+		<figure>
+			<a href="{{ $url }}">
+				<img src="{{ $url }}" alt="{{ .Params.alt }}" class="img-responsive">
+			</a>
+
+			<figcaption>
+				<p>{{ .Params.didascalia }}</p> 
+			</figcaption>
+		</figure>
+	</div>
+	
+	<div class="col-xs-8">
+		{{ .Content }}
+	</div>
+</div>
+
+{{ partial "footer.html" . }}

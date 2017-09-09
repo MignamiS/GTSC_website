@@ -1,13 +1,12 @@
 +++
-caption = "Tre fondisti in azione nelle loro rispettive tracce nella neve"
+title = "Sci di fondo"
 date = "2017-05-08T18:48:45+02:00"
 descrizione = "Lo sci di fondo è uno sport più o meno impegnativo a dipendenza del tracciato delle piste e delle condizioni di innevamento. Offre un enorme vantaggio a chi lo pratica e soprattutto al cieco perchè gli permette di sentire le bellezze della natura in un ambiente sano."
 immagine = "img/gomes.JPG"
-title = "Sci di fondo"
+didascalia = "Tre fondisti a Goms (VS)"
+alt = "Tre fondisti in azione nelle loro rispettive tracce in una piana innevata."
 
 +++
-
-{{< fig "img/gomes.JPG" "Tre fondisti in azione nelle loro rispettive tracce nella neve" >}}
 
 L'inizio di questa attività risale al gennaio 1976.
 I primi approcci con la neve sono stati concretizzati con gli sci di fondo ad Ambrì.

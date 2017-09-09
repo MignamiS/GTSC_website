@@ -1,7 +1,7 @@
 +++
-data = "29 Giugno 2017"
 date = "2017-05-08T17:38:57+02:00"
-descrizione = "Il GTSC parteciperà alla manifestazione di SporTissima dell'11 Settembre 2017."
+data = "30 giugno 2016"
+descrizione = "Il GTSC parteciperà alla manifestazione di SporTissima dell'11 Settembre 2016."
 title = "SporTissima"
 
 +++

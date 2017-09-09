@@ -1,9 +1,10 @@
 
-<ul>
+<dl>
 {{ range first 3 (where .Data.Pages "Section" "news") }}
-	<li>
+	<dt>
 		<a href="{{ .Permalink }}">{{ .Title }}</a>
-		<p>{{ .Params.Descrizione }}</p>
-	</li>
+	</dt>
+	
+	<dd style="margin-bottom: 1em">{{ .Params.Descrizione }}</dd>
 {{ end }}
-</ul>
+</dl>

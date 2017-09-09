@@ -1,13 +1,12 @@
 +++
-caption = "Escursionisti del GTSC durante l'ascensione al Pizzo Bernina"
+title = "Escursionismo"
 date = "2017-05-08T19:20:58+02:00"
 descrizione = "Quando si arriva su una qualsiasi vetta, l'emozione è forte, indescrivibile, un grido di gioia, un abbraccio festoso: che meraviglia!"
 immagine = "img/bernina.jpg"
-title = "Escursionismo"
+didascalia = "Escursionisti del GTSC durante l'ascensione al Pizzo Bernina"
+alt = "Un gruppo di escursionisti sul Pizzo Bernina."
 
 +++
-
-{{< fig "img/bernina.jpg" "Escursionisti del GTSC durante l'ascensione al Pizzo Bernina" >}}
 
 I ciechi e le loro guide amano la montagna invernale ma anche quella estiva. Sono dei grandi camminatori e i sentieri delle Prealpi e delle Alpi non hanno più segreti per il "Vibram" delle loro scarpe.
 

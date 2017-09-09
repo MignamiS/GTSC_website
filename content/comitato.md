@@ -1,6 +1,10 @@
 +++
 date = "2017-05-07T17:07:53+02:00"
 title = "Comitato"
+layout = "2_3_columns"
+immagine = "img/bernina.jpg"
+didascalia = "Il Comitato del GTSC durante la festa del 40esimo in Cimetta (Cardada)"
+alt = ""
 
 +++
 

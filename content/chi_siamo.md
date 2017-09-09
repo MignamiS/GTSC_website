@@ -1,9 +1,12 @@
 +++
 date = "2017-05-06T17:25:12+02:00"
 title = "Chi siamo"
-+++
+layout = "2_3_columns"
+immagine = "img/alalin.jpg"
+didascalia = "Il GTSC sull'Allalin (VS) nel 1984"
+alt = "Un gruppo di persone con gli sci ai piedi, in fila indiana mentre risalgono un pendio nevoso"
 
-{{< fig "img/alalin.jpg" "Il GTSC sull'Alalin nel 1984" >}}
++++
 
 > "Quali emozioni, quali gioie prova un cieco nello sci?"
 >

@@ -85,24 +85,16 @@ footer {
 }
 
 /* figure */
-figure.fig {
-	float: left;
-	margin-right: 10px;
-}
-
-.fig img {
-	max-width: 300px;
-	max-height: 300px;
-	margin-right: 10px;
-	margin-bottom: 10px;
-}
-
 figcaption p {
 	font-style: italic;
-	max-width: 200px;
+	margin-top: 1em;
 }
 
 /* Tabelle */
 tr {
 	border-bottom: 2px solid darkgrey;
+}
+
+dd {
+	margin-left: 2em;
 }
