@@ -25,3 +25,13 @@ Shortcodes:
 - dati: carica e mostra un valore presente nel file /data/contatti. Parametri: nome della variabile
 - glyphicon: produce uno span con il Glyphicon specificato. Parametri: il nome del Glyphicon (senza prefisso)
 - tbl_compiti_comitato, tbl_cronologia, tbl_programma: stampano i CSV come tabelle HTML
+
+
+Disciplina
+-----------
+
+Proprietà:
+
+- immagine: viene mostrata nella colonna a sinistra
+- didascalia: mostrata sotto l'immagine
+- alt: testo alternativo per l'immagine
