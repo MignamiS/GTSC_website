@@ -4,9 +4,9 @@
 	<h1>Discipline</h1>
 	{{ range .Data.Pages.ByTitle }}
 		<div>
-			<h2>
-				<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</h2>
+			<a href="{{ .Permalink }}">
+				<h2>{{ .Title }}</h2>
+			</a>
 			<div class="row">
 				<div class="col-xs-3">
 					<img src="{{ printf "%s%s" .Site.BaseURL .Params.Immagine }}" class="img-attivita img-responsive"/>
